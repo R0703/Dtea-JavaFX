@@ -1,0 +1,14 @@
+.root{
+
+}
+
+.button {
+    -fx-background-color: turquoise;
+    -fx-text-fill: white;
+    
+}
+
+.hyperlink{
+    -fx-text-fill: turquoise;
+    -fx-underline: true;
+}
